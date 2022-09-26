@@ -204,7 +204,7 @@ int main()
                 cout<<endl;
                 break;
             case 5:
-                cout<<"Valor MAX da Heap extraido";
+                cout<<"Valor MAX da Heap extraido: ";
                 cout<<obj.ExtractMax()<<endl;
                 cout<<endl;
                 break;
